@@ -3,7 +3,7 @@ A Universal commercial protection open source license
 # YOU CAN USE THE UCP LICENCE LIKE THIS:
 ## LICENCE:UCP (Universal commercial protection open source license）V1
 
-## Copyright (C)  <YEAR> <COPYRIGHT HOLDER>
+## Copyright (C)  (YEAR) (COPYRIGHT HOLDER)
 
 ## The right to obtain copies of the Software and related documentation files ("Software") is hereby granted, free of charge, to the restricted processing of the Software, including the freedom to use, copy, modify, incorporate and distribute copies of the Software or to redistribute your modified version of the Software to others, and to permit the person acquiring the Software to do so, subject to the following conditions:
 
